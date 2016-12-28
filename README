@@ -1,0 +1,5 @@
+################JETLIST###################
+
+The JETList project is aimed at creating a simplistic task manager that allows users to create
+tasks (with subtasks) and to assign ownership or delegations. It also accommodates reminders
+and will be able to generate SMS messages to remind users of upcoming tasks.
